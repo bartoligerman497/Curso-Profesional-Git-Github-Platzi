@@ -320,6 +320,8 @@ Para correrlo:
 git arbolito
 Aporte creado por: Jorge Sarabia
 
+alias arbolito="git log --all --graph --decorate  --oneline"
+
 Clase 25 Configurar múltiples colaboradores en un repositorio de GitHub
 
 Por defecto, cualquier persona puede clonar o descargar tu proyecto desde GitHub, pero no pueden crear commits, ni ramas. Esto quiere decir que pueden copiar tu proyecto pero no colaborar con él. Existen varias formas de solucionar esto para poder aceptar contribuciones. Una de ellas es añadir a cada persona de nuestro equipo como colaborador de nuestro repositorio.
